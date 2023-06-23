@@ -1,8 +1,8 @@
 import React from 'react';
 
-import timeSlot from '.timeSlot.jsx';
+import TimeSlot from '.TimeSlot.jsx';
 
-export default function timeslotContainer(props) {
+export default function TimeSlotContainer(props) {
 
     return (
         <div style={{background: 'black', height: '300px', display: 'flex'}}>

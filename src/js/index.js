@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 
 //import your own components
-import timeSlotcontainer from "./component/timeSlotcontainer.jsx";
+import TimeSlotContainer from "./component/timeSlotcontainer.jsx";
 
 // bonus look into useState
 
@@ -21,3 +21,10 @@ setInterval( => {
     counter = counter + 1;
 })
 
+
+// bonus come back to fix later
+
+//let stopTimer = () = > {}
+//let resumeTimer = () = > {}
+//let resetTimer = () => {
+//    setCount(0);}
