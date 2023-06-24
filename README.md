@@ -1,24 +1,7 @@
-# Hello World with React boilerplate
+**</> Simple Counter**
 
-Start coding a react application
-
-> If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
-
-## How to start coding?
-
-- Install the packages with `$ npm install`.
-- Run the webpack server with `$ npm run start`
-
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
-
-## Local Installation (skip if you are working on codespaces or gitpod)
-
-Download the boilerplate using git
-
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
+Simple Counter with React
+React improves the creation of custom components, which you can render throughout your web-app using the ReactDOM.render() method. A custom component allows you to divide and conquer, separating logical and visual challenges into smaller pieces- giving you greater control over the display and functionalities of each part of the web-app.
 ```
 
 ## Publish your website!
